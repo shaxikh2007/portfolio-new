@@ -1,0 +1,12 @@
+@media (max-width: 720px){
+    @keyframes box{
+        0%{transform:translateX(0)  }
+        100%{transform:translateY(500px);border-radius: 50%;  }
+    }
+}
+@media (max-width: 720px){
+    .box{
+        width: 200px;
+        height: 200px;
+    }
+}

@@ -1,0 +1,11 @@
+@media(max-width:1015px){
+    .card_img{
+        height: 250px;
+    }
+}
+@media(max-width:768px){
+    .footer{
+        height: 120px;
+        flex-direction: column;
+    }
+}

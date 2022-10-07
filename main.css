@@ -1,0 +1,33 @@
+@media(max-width:1015px){
+    .footer_box{
+        flex-direction: column;
+    }
+}
+
+
+
+@media(max-width:1000px){
+    h1{
+        font-size: 60px;
+    }
+}
+@media(max-width:993px){
+    .box h2{
+        font-size:large;
+    }
+}
+@media(max-width:772px){
+    .header_text ul{
+        font-size: 30px;
+    }
+}
+@media(max-width:600px){
+    h1{
+        font-size: 30px;
+    }
+}
+@media(max-width:530px){
+    .headers{
+        flex-direction: column;
+    }
+}

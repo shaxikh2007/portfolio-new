@@ -1,0 +1,39 @@
+
+@media (max-width:1010px){
+    .link a{
+        display: none;
+    }
+}
+@media (max-width:769px){
+   .carusel{
+    height: 300px;
+   }
+}
+@media (max-width:535px){
+    select{
+        display: none;
+    }
+    .img{
+        width: 60px;
+    }
+}
+@media (max-width:500px){
+    input{
+        width: 45px;
+    }
+}
+@media (max-width:420px){
+    .header_center{
+        height: 60px;
+        flex-direction: column;
+    }
+    .carusel{
+        height: 150px;
+    }
+    .logo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
